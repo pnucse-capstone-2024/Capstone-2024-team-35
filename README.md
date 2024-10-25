@@ -35,6 +35,7 @@
 - STM32F103RBT6
 - Python 3.9
 - FreeRTOS
+- Eclipse Mosquitto
 
 #### 3.2 설치 및 실행 방법
 1. 각 모듈에 적합한 펌웨어를 설치합니다.
@@ -42,6 +43,9 @@
    ```bash
    python -m uvicorn main:app --reload
    ```
+   ```bash
+   cmd mosquitto -v
+    ```
 3. GUI 접속:
   - 로컬 서버 주소에 접속하여 GUI를 확인하고 로봇을 제어할 수 있습니다.
 
