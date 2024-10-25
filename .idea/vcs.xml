@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/esp32-uwb" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rasp-CV" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/stm32-robot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/user-interaction" vcs="Git" />
+  </component>
+</project>
