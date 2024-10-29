@@ -50,7 +50,7 @@
   - 로컬 서버 주소에 접속하여 GUI를 확인하고 로봇을 제어할 수 있습니다.
 
 ### 4. 소개 및 시연 영상
-프로젝트 소개 및 시연 영상은 [여기](path_to_video)를 클릭하여 확인하세요.
+프로젝트 소개 및 시연 영상은 [![여기](http://img.youtube.com/vi/Q-QnjcWq2y8/0.jpg)](https://www.youtube.com/watch?v=Q-QnjcWq2y8)를 클릭하여 확인하세요.
 
 ### 5. 팀 소개
 - **윤석원**: 로봇 제어 및 RTLS 담당
