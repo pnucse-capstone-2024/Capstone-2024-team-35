@@ -41,10 +41,16 @@
 1. 각 모듈에 적합한 펌웨어를 설치합니다.
 2. 서버 구동:
    ```bash
-   python -m uvicorn main:app --reload
+    pip install uvicorn[standard]
+    uvicorn main:app --reload --host 0.0.0.0 --port 8000
+   ```
+   __mosquitto.conf__
+   ```agsl
+    listener 1884 ::
+    allow_anonymous true
    ```
    ```bash
-   cmd mosquitto -v
+    mosquitto -c path-to-mosquitto.conf -d -v
     ```
 3. GUI 접속:
   - 로컬 서버 주소에 접속하여 GUI를 확인하고 로봇을 제어할 수 있습니다.
