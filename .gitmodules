@@ -1,0 +1,12 @@
+[submodule "user-interaction"]
+	path = user-interaction
+	url = https://github.com/PNU-SCV/user-interaction.git
+[submodule "stm32-robot"]
+	path = stm32-robot
+	url = https://github.com/PNU-SCV/stm32-robot.git
+[submodule "esp32-uwb"]
+	path = esp32-uwb
+	url = https://github.com/PNU-SCV/esp32-uwb.git
+[submodule "rasp-CV"]
+	path = rasp-CV
+	url = https://github.com/PNU-SCV/rasp-CV.git
